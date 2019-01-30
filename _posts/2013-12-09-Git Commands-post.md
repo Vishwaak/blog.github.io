@@ -6,9 +6,7 @@ date:   2019-01-10 22:10:00
 categories: posts
 ---
 
-## Open Sourced on GitHub
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
 
 ###  Stuck with git ? Let's get started
 
@@ -29,4 +27,6 @@ git log                 - Lists all commits made.
 
 git status              - Gives you all tracked files
 
-git reset -hard HEAD^   - Resets head to previose commit.
+git reset --hard HEAD^   - Resets head to previouse commit.
+
+git reset --soft HEAD~2  - Place's you're head to previouse  with still the last intact.
