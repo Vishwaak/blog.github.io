@@ -1,6 +1,6 @@
 FLEX
 ===
-This is one of the standard themes used for blogging.
+This is one of the standard themes used for blogging.Building this one takes you lot of time.
 
 Installation
 ===
